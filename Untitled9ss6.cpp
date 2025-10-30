@@ -21,7 +21,7 @@ switch(choose){
 			    printf("nhap so a:\n");
 			    scanf("%d",&a);
 			    printf("nhap so b:\n");
-			    scanf("%b",&b);
+			    scanf("%d",&b);
 			    printf("nhap so c:\n");
 			    scanf("%d",&c);
 			    break;
@@ -77,4 +77,5 @@ switch(choose){
 }
 	 
  
+
 
